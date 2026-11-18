@@ -1,0 +1,372 @@
+{
+  "_README": "priceLKR / priceUSD: put a number (per person) or null to show 'Ask on WhatsApp'. duration, minAge and level are TODO-confirm values — check every one with the client before launch.",
+
+  "categories": [
+    {
+      "slug": "white-water-rafting-kitulgala",
+      "name": "White Water Rafting",
+      "short": "Rafting",
+      "kicker": "Kelani River · Kitulgala",
+      "image": "rafting-5km",
+      "seoTitle": "White Water Rafting in Kitulgala, Sri Lanka | 5 km & 10 km Kelani River Runs",
+      "metaDescription": "White water rafting in Kitulgala, Sri Lanka's home of rafting. 5 km or 10 km Kelani River runs with certified guides and full safety gear. Book on WhatsApp.",
+      "h1": "White Water Rafting in Kitulgala",
+      "intro": "Kitulgala is where white water rafting in Sri Lanka began, and the Kelani River is still the best place in the country to do it. The river drops out of the central hills through thick rainforest, giving fast, splashy rapids between calm stretches where you can float, swim and look up at the jungle. Pick the 5 km run for a fun first taste or the 10 km run for the full river.",
+      "body": [
+        "Every trip starts at our base in Kitulgala with a safety briefing, paddle practice and a full kit check: helmet, life jacket and paddle for everyone. Your raft is steered by a trained river guide who calls every stroke, so no rafting experience is needed. Between the rapids there are slow pools where the guide may let you jump in and float downstream in your life jacket.",
+        "Kitulgala sits on the A7 between Colombo and Hatton, about 2.5 hours from Colombo, so rafting here fits easily into a day trip or a stop on the way to the hill country, Nuwara Eliya or Adam's Peak. Water levels change with the monsoons, so message us on WhatsApp and we'll tell you how the river is running on your date."
+      ],
+      "faqs": [
+        { "q": "Do I need to know how to swim to go rafting in Kitulgala?", "a": "Strong swimming is not required. Everyone wears a fitted life jacket and helmet, and your guide covers what to do if you fall in during the safety briefing. Please tell us if anyone in your group can't swim so the guide can plan for it." },
+        { "q": "What grade are the rapids on the Kelani River?", "a": "The Kitulgala section of the Kelani River is mostly Grade 2–3 white water, which is exciting but suitable for beginners with a guide. The 10 km run has more and bigger rapids than the 5 km run." },
+        { "q": "When is the best time for rafting in Kitulgala?", "a": "Rafting runs all year, but the river level changes with the monsoon rains and upstream hydropower releases. We check the river every morning and confirm on WhatsApp before your trip." }
+      ]
+    },
+    {
+      "slug": "canyoning-sri-lanka",
+      "name": "Canyoning",
+      "short": "Canyoning",
+      "kicker": "Jungle streams · Kitulgala",
+      "image": "canyoning",
+      "seoTitle": "Canyoning in Sri Lanka | Kitulgala Canyoning, Marvel & Watagala Canyons",
+      "metaDescription": "Canyoning in Sri Lanka at Kitulgala: rock slides, cliff jumps and rope descents in the rainforest. Beginner and advanced canyons. Book on WhatsApp.",
+      "h1": "Canyoning in Sri Lanka",
+      "intro": "Canyoning means following a jungle stream down through the forest by sliding down smooth rock chutes, jumping into deep pools and climbing down rope sections beside waterfalls. Kitulgala's rainforest streams make it the canyoning capital of Sri Lanka. We run one canyon for first-timers and two advanced canyons for people who want more.",
+      "body": [
+        "On every canyoning trip you wear a helmet, life jacket and, on the advanced routes, a harness. Your guide checks every jump and slide before you go. You choose how high you jump: every big jump has an easier way down beside it.",
+        "Normal Canyoning is the place to start. Marvel Canyoning and Watagala Canyoning are longer and steeper, with bigger jumps and roped descents, and suit fit, confident swimmers who are ready for a full adventure day."
+      ],
+      "faqs": [
+        { "q": "Is canyoning in Kitulgala safe for beginners?", "a": "Yes. Normal Canyoning is designed for beginners. Guides check every slide and jump first, and every big jump has an easier way down. Marvel and Watagala are advanced and best after some experience." },
+        { "q": "What should I wear for canyoning?", "a": "Swimwear or quick-dry clothes, and shoes that grip on wet rock and can get wet: water shoes, trail shoes or strapped sandals. No flip-flops. Bring a towel and a change of clothes." },
+        { "q": "Can I bring my phone or camera?", "a": "Only in a waterproof case with a strap. Our guides can take photos on the route. Ask about photo packages on WhatsApp." }
+      ]
+    },
+    {
+      "slug": "waterfall-abseiling-sri-lanka",
+      "name": "Waterfall Abseiling",
+      "short": "Abseiling",
+      "kicker": "Three waterfalls · Kitulgala",
+      "image": "sandun-ella",
+      "seoTitle": "Waterfall Abseiling in Sri Lanka | Sandun Ella, Mannakathi Ella & Kataran Ella",
+      "metaDescription": "Waterfall abseiling in Kitulgala, Sri Lanka: Sandun Ella, Mannakathi Ella and Kataran Ella. Full rope training and certified guides. Book on WhatsApp.",
+      "h1": "Waterfall Abseiling in Sri Lanka",
+      "intro": "Waterfall abseiling means lowering yourself down a rope beside a waterfall while the water crashes past you. Kitulgala has three waterfalls we abseil — Sandun Ella, Mannakathi Ella and Kataran Ella — each with its own height, rock and feel.",
+      "body": [
+        "Before you go near the edge, your guide fits your harness and helmet and teaches you the rope technique on a small practice slope. On the waterfall itself you're on a guide-controlled safety system the whole way down, so you can concentrate on the view.",
+        "No climbing experience is needed. If you're nervous about heights, this is a good way to face it: you set the speed, and the guide is with you from top to bottom."
+      ],
+      "faqs": [
+        { "q": "Do I need climbing experience to abseil a waterfall?", "a": "No. Training on a small slope is included before the real descent, and you stay on a guide-controlled safety system the whole way down." },
+        { "q": "Which waterfall should I choose?", "a": "Message us with your group's age and experience and we'll suggest the best fall for the season and the water level on your date." },
+        { "q": "What if I panic halfway down?", "a": "Your guide controls the safety rope and can stop or lower you at any time. You set your own speed." }
+      ]
+    },
+    {
+      "slug": "kitulgala-adventures",
+      "name": "More Adventures",
+      "short": "More",
+      "kicker": "Zip line · Trekking · Caves · Cycling",
+      "image": "zip-lining",
+      "seoTitle": "Things to Do in Kitulgala | Zip Lining, Jungle Trekking, Belilena Cave & Cycling",
+      "metaDescription": "More things to do in Kitulgala, Sri Lanka: a 200 m jungle zip line, Makandawa rainforest trekking, the Belilena prehistoric cave hike and cycling tours. Book on WhatsApp.",
+      "h1": "More Things to Do in Kitulgala",
+      "intro": "Kitulgala has more than rapids. Fly over the jungle on a 200 m zip line, walk through the Makandawa rainforest, hike to Belilena, one of Sri Lanka's oldest prehistoric caves, or cycle the village roads along the Kelani River.",
+      "body": [
+        "These activities are good for families, for a slower afternoon after rafting, or for travellers who want to see the forest without going in the water. Many guests combine one of them with a rafting or canyoning trip on the same day.",
+        "Tell us on WhatsApp what you'd like to combine and we'll suggest a day plan that fits your group."
+      ],
+      "faqs": [
+        { "q": "Can I combine activities on the same day?", "a": "Yes. Rafting in the morning with zip lining, trekking or canyoning in the afternoon is a popular day. Message us and we'll plan the timings." },
+        { "q": "Are these activities suitable for children?", "a": "The zip line, Belilena hike and easy jungle walks suit most children. Check each activity's minimum age, or ask us on WhatsApp." }
+      ]
+    }
+  ],
+
+  "activities": [
+    {
+      "slug": "5km-rafting",
+      "category": "white-water-rafting-kitulgala",
+      "name": "5 km White Water Rafting",
+      "card": "The classic Kelani River run, with fun rapids, calm pools and jungle all around. Perfect for first-timers.",
+      "seoTitle": "5 km White Water Rafting Kitulgala | Beginner Rafting in Sri Lanka",
+      "metaDescription": "Raft 5 km of the Kelani River in Kitulgala, Sri Lanka. Beginner-friendly Grade 2–3 rapids, certified river guides and all safety gear included. Book instantly on WhatsApp.",
+      "image": "rafting-5km",
+      "alt": "Raft team in red helmets paddling through white water rapids on the Kelani River in Kitulgala",
+      "duration": "≈ 1 – 1.5 hrs",
+      "minAge": 8,
+      "level": "Beginner",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "The 5 km run is Kitulgala's most popular rafting trip and the best way to try white water rafting in Sri Lanka for the first time. You'll paddle a run of lively rapids through the rainforest, with calm sections in between to catch your breath, swim in your life jacket and look out for monkeys and kingfishers on the banks.",
+        "It's a good choice for families with older children, mixed groups and anyone who wants a big dose of adventure without a full day on the river."
+      ],
+      "highlights": ["Several lively rapids", "Calm swimming stretches", "Rainforest scenery the whole way", "Great for first-timers and families"],
+      "included": ["Certified river guide", "Helmet, life jacket & paddle", "Safety briefing & paddle training", "Changing area"],
+      "bring": ["Swimwear or quick-dry clothes", "Shoes or sandals with straps", "Towel & change of clothes", "Sunscreen"],
+      "steps": [["Meet & gear up", "Check-in at our Kitulgala base, kit fitting and safety talk."], ["Paddle practice", "Learn the guide's commands in calm water."], ["Run the rapids", "5 km of white water, splashes and floating."], ["Back to base", "Changing area, then share your photos."]]
+    },
+    {
+      "slug": "10km-rafting",
+      "category": "white-water-rafting-kitulgala",
+      "name": "10 km White Water Rafting",
+      "card": "Double the river and double the rapids. The full Kitulgala run for people who want more.",
+      "seoTitle": "10 km White Water Rafting Kitulgala | Longest Kelani River Run",
+      "metaDescription": "Raft the full 10 km of the Kelani River in Kitulgala, Sri Lanka. Every major rapid, expert guides and all safety gear included. Book on WhatsApp.",
+      "image": "rafting-10km",
+      "alt": "Yellow raft plunging down a big white water rapid between boulders in Sri Lanka",
+      "duration": "≈ 2 – 2.5 hrs",
+      "minAge": 12,
+      "level": "Intermediate",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "The 10 km run covers the whole rafting section of the Kelani River at Kitulgala. You get every major rapid on the river, longer stretches of jungle gorge and more time on the water. It's the trip to pick if you've rafted before or simply want the biggest day out Kitulgala has to offer.",
+        "The rapids are bigger and more frequent than on the 5 km run, so expect to paddle hard and get very wet. Your guide reads every rapid and keeps the boat on line."
+      ],
+      "highlights": ["Every major rapid on the Kelani", "Twice the time on the water", "Deep jungle gorge sections", "Best value for adventure lovers"],
+      "included": ["Certified river guide", "Helmet, life jacket & paddle", "Safety briefing & paddle training", "Changing area"],
+      "bring": ["Swimwear or quick-dry clothes", "Shoes or sandals with straps", "Towel & change of clothes", "Sunscreen & water"],
+      "steps": [["Meet & gear up", "Check-in, kit fitting and full safety briefing."], ["Training", "Paddle commands and what to do if you swim."], ["The full river", "10 km of rapids, gorges and swim stops."], ["Celebrate", "Back to base to change, rest and share stories."]]
+    },
+    {
+      "slug": "kitulgala-canyoning",
+      "category": "canyoning-sri-lanka",
+      "name": "Normal Canyoning",
+      "card": "Natural rock slides, jumps into jungle pools and stream walks. The perfect first canyon.",
+      "seoTitle": "Kitulgala Canyoning for Beginners | Rock Slides & Jungle Pools, Sri Lanka",
+      "metaDescription": "Beginner canyoning in Kitulgala, Sri Lanka: natural water slides, small cliff jumps and clear jungle pools with expert guides. No experience needed. Book on WhatsApp.",
+      "image": "canyoning",
+      "alt": "Person in a helmet sliding down a natural rock water slide into a jungle pool in Kitulgala",
+      "duration": "≈ 1.5 – 2 hrs",
+      "minAge": 10,
+      "level": "Beginner",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "Our Normal Canyoning trip follows a rainforest stream near Kitulgala down a chain of natural pools. You'll slide down water-polished rock, jump into clear jungle pools and scramble over boulders with a guide beside you all the way.",
+        "Every jump has an easier way down, so you choose your own level of adrenaline. It's a big hit with families, friend groups and anyone trying canyoning for the first time."
+      ],
+      "highlights": ["Natural rock water slides", "Jumps you can choose to skip", "Crystal-clear jungle pools", "No experience needed"],
+      "included": ["Certified canyoning guide", "Helmet & life jacket", "Safety briefing", "Changing area"],
+      "bring": ["Swimwear", "Shoes that grip on wet rock", "Towel & change of clothes", "Waterproof phone pouch (optional)"],
+      "steps": [["Gear up", "Helmet, life jacket and briefing at base."], ["Jungle walk", "Short trek in to the top of the stream."], ["Slide & jump", "Work your way down the pools."], ["Walk out", "Back to base to change and dry off."]]
+    },
+    {
+      "slug": "marvel-canyoning",
+      "category": "canyoning-sri-lanka",
+      "name": "Marvel Canyoning",
+      "advanced": true,
+      "card": "Bigger jumps, longer slides and roped sections. The advanced canyon for confident adventurers.",
+      "seoTitle": "Marvel Canyoning Kitulgala | Advanced Canyoning in Sri Lanka",
+      "metaDescription": "Marvel Canyoning: an advanced canyon in Kitulgala, Sri Lanka, with high cliff jumps, long slides and roped waterfall descents. Book on WhatsApp.",
+      "image": "marvel-canyoning",
+      "alt": "Adventurer jumping from a high rock ledge into a deep pool below a jungle waterfall",
+      "duration": "≈ 3 hrs",
+      "minAge": 14,
+      "level": "Advanced",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "Marvel Canyoning is a step up from a beginner canyon. The route goes deeper into the rainforest, with higher cliff jumps, longer and faster natural slides, and roped descents beside falling water, all led by guides trained in rope access and rescue.",
+        "It suits fit, confident swimmers who've canyoned before or just want a bigger challenge. Expect a proper adventure day and some great photos."
+      ],
+      "highlights": ["High cliff jumps into deep pools", "Long, fast natural slides", "Roped waterfall sections", "Small groups with expert guides"],
+      "included": ["Certified canyoning guides", "Helmet, harness & life jacket", "All ropes & technical gear", "Safety briefing & rope training"],
+      "bring": ["Swimwear or quick-dry clothes", "Grippy shoes that can get wet", "Towel & change of clothes", "Water & a snack"],
+      "steps": [["Briefing", "Harness fitting and rope skills session."], ["Into the canyon", "Trek in deep to the canyon head."], ["Jump, slide, rope", "Work down the canyon's big features."], ["Out & refuel", "Walk out and celebrate at base."]]
+    },
+    {
+      "slug": "watagala-canyoning",
+      "category": "canyoning-sri-lanka",
+      "name": "Watagala Canyoning",
+      "advanced": true,
+      "card": "A remote, wild canyon with narrow gorges, rope work and serious jumps. For experienced canyoners.",
+      "seoTitle": "Watagala Canyoning | Advanced Gorge Canyoning near Kitulgala, Sri Lanka",
+      "metaDescription": "Watagala Canyoning near Kitulgala: an advanced, remote rainforest gorge in Sri Lanka with roped descents, deep swims and big jumps. Book on WhatsApp.",
+      "image": "watagala-canyoning",
+      "alt": "Canyoners in helmets wading through a narrow, deep rainforest gorge in Sri Lanka",
+      "duration": "≈ 3 – 4 hrs",
+      "minAge": 16,
+      "level": "Advanced",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "Watagala is our wildest canyon: a narrow rainforest gorge with smooth carved walls, roped descents, swims through deep passages and jumps for those who want them. It's quieter and more remote than any other canyoning route around Kitulgala.",
+        "This trip is for experienced, fit adventurers. We run it in small groups and only when water conditions are right, so message us early to check dates."
+      ],
+      "highlights": ["Remote, wild rainforest gorge", "Roped descents & deep swims", "Small groups only", "Run only in safe water conditions"],
+      "included": ["Certified canyoning guides", "Helmet, harness & life jacket", "All ropes & technical gear", "Safety briefing & rope training"],
+      "bring": ["Swimwear or quick-dry clothes", "Grippy shoes that can get wet", "Towel & change of clothes", "Water & a snack"],
+      "steps": [["Conditions check", "We confirm water levels the day before."], ["Gear & training", "Harness fitting and rope skills."], ["The gorge", "Descend Watagala with your guides."], ["Hike out", "Trek back and refuel."]]
+    },
+    {
+      "slug": "sandun-ella-abseiling",
+      "category": "waterfall-abseiling-sri-lanka",
+      "name": "Sandun Ella Waterfall Abseiling",
+      "short": "Sandun Ella",
+      "card": "Rope down beside the falling water at Sandun Ella, Kitulgala's signature abseil.",
+      "seoTitle": "Sandun Ella Waterfall Abseiling | Kitulgala, Sri Lanka",
+      "metaDescription": "Abseil Sandun Ella waterfall in Kitulgala, Sri Lanka. Full harness training and a guide-controlled safety rope. No experience needed. Book on WhatsApp.",
+      "image": "sandun-ella",
+      "alt": "Climber in a red helmet abseiling on a rope beside a tall jungle waterfall",
+      "duration": "≈ 2 – 3 hrs",
+      "minAge": 12,
+      "level": "Beginner",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "Sandun Ella is a beautiful jungle waterfall close to Kitulgala and one of the best places to abseil a waterfall in Sri Lanka. After a short hike and full rope training, you'll step back over the edge and lower yourself down beside the falling water.",
+        "It's our most popular abseil for first-timers. The setting is spectacular, the training is thorough, and you're on a guide-controlled safety rope from top to bottom."
+      ],
+      "highlights": ["Abseil beside a jungle waterfall", "Full rope training first", "Guide-controlled safety rope", "Great for first-timers"],
+      "included": ["Certified rope guides", "Harness, helmet & gloves", "All ropes & technical gear", "Training session"],
+      "bring": ["Clothes you don't mind getting wet", "Closed shoes with grip", "Towel & change of clothes", "Water"],
+      "steps": [["Hike in", "Short jungle walk to the top of the falls."], ["Train", "Harness fitting and rope practice."], ["Abseil", "Descend beside the waterfall at your own speed."], ["Swim & return", "Cool off, then walk back."]]
+    },
+    {
+      "slug": "mannakathi-ella-abseiling",
+      "category": "waterfall-abseiling-sri-lanka",
+      "name": "Mannakathi Ella Waterfall Abseiling",
+      "short": "Mannakathi Ella",
+      "card": "A tall, powerful fall over dark cliffs. The most dramatic abseil in Kitulgala.",
+      "seoTitle": "Mannakathi Ella Waterfall Abseiling | Kitulgala, Sri Lanka",
+      "metaDescription": "Abseil Mannakathi Ella in Kitulgala, a tall, powerful jungle waterfall over sheer rock. Harness training and certified rope guides included. Book your abseil on WhatsApp.",
+      "image": "mannakathi-ella",
+      "alt": "Tall jungle waterfall over a dark cliff with a person abseiling beside it for scale",
+      "duration": "≈ 2.5 – 3 hrs",
+      "minAge": 14,
+      "level": "Intermediate",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "Mannakathi Ella drops over sheer dark rock into a deep jungle pool. It's taller and more powerful than Sandun Ella and gives a seriously dramatic abseil with mist in the air and the roar of water beside you.",
+        "Good for people who've abseiled before or are confident with heights, and a great follow-up if you loved Sandun Ella."
+      ],
+      "highlights": ["Tall, powerful jungle waterfall", "Sheer rock descent", "Mist, spray and huge views", "Ideal second abseil"],
+      "included": ["Certified rope guides", "Harness, helmet & gloves", "All ropes & technical gear", "Training session"],
+      "bring": ["Clothes you don't mind getting wet", "Closed shoes with grip", "Towel & change of clothes", "Water"],
+      "steps": [["Hike in", "Jungle trail to the top of Mannakathi Ella."], ["Train", "Rope technique refresher."], ["Abseil", "Descend the main wall beside the falls."], ["Return", "Walk out and celebrate."]]
+    },
+    {
+      "slug": "kataran-ella-abseiling",
+      "category": "waterfall-abseiling-sri-lanka",
+      "name": "Kataran Ella Waterfall Abseiling",
+      "short": "Kataran Ella",
+      "card": "Step down a tiered fall of granite ledges and pools in the heart of the rainforest.",
+      "seoTitle": "Kataran Ella Waterfall Abseiling | Kitulgala, Sri Lanka",
+      "metaDescription": "Abseil Kataran Ella, a tiered rainforest waterfall near Kitulgala, Sri Lanka. Training, harness and certified rope guides included. Book on WhatsApp.",
+      "image": "kataran-ella",
+      "alt": "Abseiler in harness descending beside a tiered waterfall over granite ledges",
+      "duration": "≈ 2 – 3 hrs",
+      "minAge": 12,
+      "level": "Beginner",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "Kataran Ella falls in steps over granite ledges, with pools between the drops. The abseil follows the water down these tiers, so it's varied, very scenic and less intimidating than a single sheer drop.",
+        "A great option for families with teens, photographers and anyone who wants a gentler first abseil in a beautiful spot."
+      ],
+      "highlights": ["Tiered rainforest waterfall", "Gentler stepped descent", "Pools between the drops", "Very photogenic"],
+      "included": ["Certified rope guides", "Harness, helmet & gloves", "All ropes & technical gear", "Training session"],
+      "bring": ["Clothes you don't mind getting wet", "Closed shoes with grip", "Towel & change of clothes", "Water"],
+      "steps": [["Hike in", "Rainforest walk to Kataran Ella."], ["Train", "Harness fitting and rope practice."], ["Abseil", "Step down the tiers beside the water."], ["Return", "Swim stop, then back to base."]]
+    },
+    {
+      "slug": "zip-lining-kitulgala",
+      "category": "kitulgala-adventures",
+      "name": "Zip Lining (200 m)",
+      "short": "Zip Lining",
+      "card": "Fly 200 metres over the jungle on a steel cable. Short, fast and unforgettable.",
+      "seoTitle": "Zip Lining in Kitulgala | 200 m Jungle Zip Line, Sri Lanka",
+      "metaDescription": "Fly 200 m over the rainforest on Kitulgala's jungle zip line in Sri Lanka. Harness, helmet and trained staff included. Great for families. Book on WhatsApp.",
+      "image": "zip-lining",
+      "alt": "Rider in harness flying along a zip line high above a jungle river valley",
+      "duration": "≈ 30 – 45 mins",
+      "minAge": 8,
+      "level": "All levels",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "Clip in, step off and fly 200 metres over the Kitulgala jungle. Our zip line is the quickest adrenaline hit in the valley, with treetop views over the rainforest and a big rush of speed.",
+        "It's great for families and younger adventurers, and easy to add before or after rafting or canyoning."
+      ],
+      "highlights": ["200 m of cable", "Treetop jungle views", "Great for families", "Easy add-on to any activity"],
+      "included": ["Trained zip line staff", "Harness, helmet & trolley", "Safety briefing"],
+      "bring": ["Comfortable clothes", "Closed shoes", "A camera strap or pocket with a zip"],
+      "steps": [["Briefing", "Harness fitting and quick safety talk."], ["Launch", "Walk up to the launch platform."], ["Fly", "200 m over the jungle."], ["Land", "Unclip at the landing platform."]]
+    },
+    {
+      "slug": "jungle-trekking-makandawa",
+      "category": "kitulgala-adventures",
+      "name": "Jungle Trekking (Makandawa)",
+      "short": "Jungle Trekking",
+      "card": "Walk deep into the Makandawa rainforest with a naturalist guide: giant trees, birds and streams.",
+      "seoTitle": "Makandawa Rainforest Jungle Trekking | Kitulgala, Sri Lanka",
+      "metaDescription": "Guided jungle trekking in the Makandawa rainforest, Kitulgala, Sri Lanka: giant trees, endemic birds, streams and natural pools with a local guide. Book on WhatsApp.",
+      "image": "jungle-trekking",
+      "alt": "Hikers walking a trail through misty rainforest with giant trees and light rays",
+      "duration": "≈ 2 – 3 hrs",
+      "minAge": 6,
+      "level": "Easy – Moderate",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "The Makandawa forest near Kitulgala is lowland rainforest full of giant trees, hanging vines, streams and some of Sri Lanka's endemic birds and butterflies. Our local guides know the trails, the plants and the wildlife and turn a walk into a living nature lesson.",
+        "The trek is unhurried and suits most fitness levels. It's best in the morning, when birds are most active."
+      ],
+      "highlights": ["Lowland rainforest trails", "Endemic birds & butterflies", "Streams & natural pools", "Local naturalist guide"],
+      "included": ["Local trekking guide", "Drinking water", "Leech socks on request"],
+      "bring": ["Light long trousers", "Trail shoes", "Insect repellent", "Rain jacket"],
+      "steps": [["Meet", "Short briefing and route plan."], ["Into the forest", "Guided walk through Makandawa."], ["Stream stop", "Rest and cool off at a natural pool."], ["Return", "Loop back to the trailhead."]]
+    },
+    {
+      "slug": "belilena-cave-hike",
+      "category": "kitulgala-adventures",
+      "name": "Belilena Hike",
+      "short": "Belilena Hike",
+      "card": "Hike to Belilena, a prehistoric cave where people lived tens of thousands of years ago.",
+      "seoTitle": "Belilena Cave Hike | Prehistoric Cave near Kitulgala, Sri Lanka",
+      "metaDescription": "Guided hike to Belilena Cave near Kitulgala, one of Sri Lanka's most important prehistoric sites, through rainforest and village trails. Book on WhatsApp.",
+      "image": "belilena",
+      "alt": "Hiker standing in the mouth of a huge prehistoric rock cave in the Sri Lankan rainforest",
+      "duration": "≈ 2 hrs",
+      "minAge": 6,
+      "level": "Easy",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "Belilena is one of Sri Lanka's most important prehistoric caves. Archaeologists have found evidence of people living here tens of thousands of years ago, among the earliest traces of modern humans in South Asia. The hike there winds through village paths and rainforest to a huge rock shelter hidden in the hills.",
+        "It's an easy, family-friendly walk that combines nature, history and a bit of adventure."
+      ],
+      "highlights": ["Prehistoric archaeological site", "Village & rainforest trails", "Family-friendly", "Story-telling local guide"],
+      "included": ["Local guide", "Drinking water"],
+      "bring": ["Comfortable shoes", "Light clothes & rain jacket", "Insect repellent", "A torch (optional)"],
+      "steps": [["Meet", "Briefing in Kitulgala."], ["Trail", "Village and forest path to the cave."], ["Explore", "Belilena's history, told by your guide."], ["Return", "Walk back the scenic way."]]
+    },
+    {
+      "slug": "cycling-kitulgala",
+      "category": "kitulgala-adventures",
+      "name": "Cycling",
+      "card": "Ride rural roads and red-earth trails through villages, rubber estates and the river valley.",
+      "seoTitle": "Cycling Tours in Kitulgala | Village & Jungle Bike Rides, Sri Lanka",
+      "metaDescription": "Guided cycling in Kitulgala, Sri Lanka: rural roads, red-earth trails, villages and river valley views. Bikes and helmets provided. Book your ride on WhatsApp.",
+      "image": "cycling",
+      "alt": "Mountain biker riding a red-earth trail through misty rainforest hills in Sri Lanka",
+      "duration": "≈ 2 – 3 hrs",
+      "minAge": 12,
+      "level": "Easy – Moderate",
+      "priceLKR": null,
+      "priceUSD": null,
+      "about": [
+        "See Kitulgala at bike speed. Our guided rides follow quiet rural roads and red-earth trails through villages, rubber and spice gardens and viewpoints over the Kelani valley. There are easy routes for casual riders and hillier routes for people who want a workout.",
+        "A great morning activity before rafting, or a relaxed way to explore the valley on a rest day."
+      ],
+      "highlights": ["Rural village roads", "Red-earth trails & viewpoints", "Easy and hilly route options", "Local guide"],
+      "included": ["Bike & helmet", "Local guide", "Drinking water"],
+      "bring": ["Sports clothes", "Trainers", "Sunscreen", "Sunglasses"],
+      "steps": [["Fit your bike", "Bike set-up and route choice."], ["Ride out", "Village roads and river views."], ["Viewpoint stop", "Rest, photos and a snack."], ["Ride back", "Return to base."]]
+    }
+  ]
+}

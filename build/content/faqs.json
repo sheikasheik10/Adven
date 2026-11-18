@@ -1,0 +1,14 @@
+{
+  "_README": "General FAQs, shown on the home and About pages and published as FAQPage structured data. TODO: confirm every answer with the client.",
+  "faqs": [
+    { "q": "Where is Kitulgala and how do I get there?", "a": "Kitulgala is a rainforest village on the Kelani River in Sri Lanka's Kegalle District, on the A7 road between Avissawella and Hatton. It's about 87 km (2.5–3 hours) from Colombo, about 2 hours from Kandy and 2–2.5 hours from Nuwara Eliya. We can help arrange pickup — just ask on WhatsApp." },
+    { "q": "How do I book?", "a": "Tap any 'Book on WhatsApp' button, add your name, date and group size, and WhatsApp opens with your booking message already written. Press send and our team will confirm availability, pickup and payment details in the chat." },
+    { "q": "Do I pay online?", "a": "No. There's no online payment on this website. Our team will confirm your booking and any advance payment directly with you on WhatsApp." },
+    { "q": "Is it safe?", "a": "Every activity is led by trained guides, and all safety equipment is provided: helmets, life jackets, harnesses and ropes, depending on the activity. Each trip starts with a safety briefing, and we only run activities when river and weather conditions are right." },
+    { "q": "Do I need previous experience?", "a": "No experience is needed for rafting, Normal Canyoning, waterfall abseiling, the zip line or the hikes. Marvel Canyoning and Watagala Canyoning are advanced and best for fit, confident swimmers." },
+    { "q": "What's the minimum age?", "a": "It depends on the activity, from about 6 years for easy hikes to 14–16 years for advanced canyoning. You'll find the minimum age on each activity page. Ask us on WhatsApp if you're unsure." },
+    { "q": "What should I bring?", "a": "Swimwear or quick-dry clothes, shoes with straps or grip that can get wet, a towel, a change of clothes, sunscreen and water. We provide all the technical safety gear." },
+    { "q": "When is the best time to visit Kitulgala?", "a": "Adventures run all year. Kitulgala gets rain in both monsoons, which keeps the rivers and waterfalls flowing. River levels change day to day, so we confirm conditions on WhatsApp before your trip." },
+    { "q": "Can I choose my guide?", "a": "You can ask! Mention the guide's name in your WhatsApp booking message and we'll do our best to match you, depending on schedules." }
+  ]
+}

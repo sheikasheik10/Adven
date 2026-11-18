@@ -1,0 +1,37 @@
+{
+  "_README": "Edit this file, then run:  python build/build.py   — all pages in /site are regenerated. Anything marked TODO must be confirmed by the client before launch.",
+
+  "name": "Canyoning Sri Lanka",
+  "tagline": "White water rafting, canyoning & waterfall abseiling in Kitulgala",
+  "domain": "https://canyoningsrilanka.com",
+
+  "whatsapp": "94770000000",
+  "_whatsapp_TODO": "Replace with the client's business WhatsApp number — country code, no + or spaces (e.g. 94771234567).",
+  "whatsappDisplay": "+94 77 000 0000",
+
+  "email": "",
+  "_email_TODO": "Leave empty for Option A (static hosting). Add info@canyoningsrilanka.com if Option B is chosen.",
+
+  "geo": { "lat": 6.9893, "lng": 80.4176 },
+  "address": {
+    "locality": "Kitulgala",
+    "region": "Sabaragamuwa Province",
+    "district": "Kegalle District",
+    "country": "LK",
+    "countryName": "Sri Lanka"
+  },
+  "openingHours": "Mo-Su 07:00-18:00",
+  "openingHoursDisplay": "Every day · 7:00 am – 6:00 pm",
+  "_openingHours_TODO": "Confirm opening hours with the client.",
+
+  "social": [],
+  "_social_TODO": "Add the business Facebook / Instagram / TripAdvisor URLs (business accounts only — never guides' personal accounts).",
+
+  "distances": [
+    { "from": "Colombo", "km": 87, "time": "2.5 – 3 hrs", "route": "A4 to Avissawella, then the A7 towards Hatton" },
+    { "from": "Bandaranaike Airport (CMB)", "km": 95, "time": "2.5 – 3 hrs", "route": "Outer Circular Expressway to Kaduwela, then A4 / A7" },
+    { "from": "Kandy", "km": 60, "time": "≈ 2 hrs", "route": "Via Gampola, Nawalapitiya and Ginigathhena" },
+    { "from": "Nuwara Eliya", "km": 75, "time": "2 – 2.5 hrs", "route": "Via Hatton and Ginigathhena" },
+    { "from": "Hatton / Adam's Peak", "km": 40, "time": "≈ 1.5 hrs", "route": "A7 west through Ginigathhena" }
+  ]
+}

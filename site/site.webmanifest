@@ -1,0 +1,20 @@
+{
+  "name": "Canyoning Sri Lanka",
+  "short_name": "Canyoning SL",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1113",
+  "theme_color": "#0a1113",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

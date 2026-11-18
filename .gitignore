@@ -1,0 +1,13 @@
+# Raw hero video originals (too large for git; compressed versions live in site/assets/video/)
+source-video/
+
+# Python / tooling
+__pycache__/
+*.pyc
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

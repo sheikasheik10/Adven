@@ -1,0 +1,33 @@
+{
+  "_README": "TODO: replace these placeholder guides with the client's real guides. Set 'photo' to a file name in site/assets/img/guides/ (e.g. 'kasun.webp') or leave it empty for the silhouette. NEVER add phone numbers, emails or social handles here — the Guides page only links to the business WhatsApp.",
+  "placeholder": true,
+  "guides": [
+    {
+      "name": "Guide Name",
+      "role": "Senior Rafting Guide",
+      "years": 8,
+      "photo": "",
+      "qualifications": ["Swift-water rescue", "First aid & CPR"],
+      "languages": ["English", "Sinhala"],
+      "leads": ["White Water Rafting"]
+    },
+    {
+      "name": "Guide Name",
+      "role": "Canyoning Instructor",
+      "years": 5,
+      "photo": "",
+      "qualifications": ["Rope access & abseiling", "Wilderness first aid"],
+      "languages": ["English", "Tamil"],
+      "leads": ["Canyoning", "Waterfall Abseiling"]
+    },
+    {
+      "name": "Guide Name",
+      "role": "Trekking Guide",
+      "years": 6,
+      "photo": "",
+      "qualifications": ["Jungle & trail guiding", "First aid certified"],
+      "languages": ["English", "Sinhala"],
+      "leads": ["Jungle Trekking", "Belilena Hike", "Cycling"]
+    }
+  ]
+}
