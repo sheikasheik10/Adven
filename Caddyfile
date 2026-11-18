@@ -1,0 +1,38 @@
+{
+	admin off
+	auto_https off
+	persist_config off
+}
+
+# Railway provides $PORT; fall back to 8080 locally.
+:{$PORT:8080} {
+	root * /srv
+	encode zstd gzip
+
+	header {
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+		X-Frame-Options SAMEORIGIN
+		Permissions-Policy "camera=(), microphone=(), geolocation=()"
+		-Server
+	}
+
+	@longcache path /assets/img/* /assets/og/* /assets/video/*
+	header @longcache Cache-Control "public, max-age=2592000"
+
+	@shortcache path /assets/css/* /assets/js/*
+	header @shortcache Cache-Control "public, max-age=3600, must-revalidate"
+
+	# Netlify/Cloudflare headers file is not a page
+	respond /_headers 404
+
+	file_server
+
+	handle_errors {
+		@notfound expression {err.status_code} == 404
+		handle @notfound {
+			rewrite * /404.html
+			file_server
+		}
+	}
+}
