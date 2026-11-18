@@ -544,3 +544,106 @@ ol { list-style: none; margin: 0; padding: 0; }
 @media (max-width: 899px) {
   .bookbar-on .wa-float { opacity: 0; pointer-events: none; transform: translateY(24px); }
 }
+
+/* ==========================================================================
+   Phone layout (≤ 639px): shorter page, swipe rows, bigger tap targets
+   ========================================================================== */
+.swipe-hint { display: none; }
+@keyframes nudge { 0%, 100% { transform: translateX(0) } 50% { transform: translateX(5px) } }
+
+@media (max-width: 639px) {
+  /* tighter rhythm */
+  .section { padding: 56px 0; }
+  .section--tight { padding: 36px 0; }
+  .section-head { margin-bottom: 26px; gap: 14px; }
+  .lead { font-size: 16px; }
+  .kicker { margin-bottom: 12px; font-size: 11px; }
+
+  /* swipeable card rows (home activities, guides, related) */
+  .cards--swipe, .guides--swipe {
+    display: flex; gap: 12px; overflow-x: auto; overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory; scroll-padding-inline: var(--gutter);
+    margin-inline: calc(var(--gutter) * -1); padding: 4px var(--gutter) 6px;
+    scrollbar-width: none; -webkit-overflow-scrolling: touch;
+  }
+  .cards--swipe::-webkit-scrollbar, .guides--swipe::-webkit-scrollbar { display: none; }
+  .cards--swipe > .card, .guides--swipe > .guide { flex: 0 0 84%; scroll-snap-align: start; }
+  .cards--swipe > .card.is-hidden { display: none; }
+  .cards--swipe .card__media { aspect-ratio: 4 / 5.3; }
+  .btn { max-width: 100%; white-space: normal; text-align: center; line-height: 1.25; }
+  .btn--lg { padding: 10px 26px; }
+  .swipe-hint { display: flex; justify-content: flex-end; align-items: center; gap: 6px; margin: 8px 0 0; font-size: 13px; color: var(--muted); }
+  .swipe-hint span { color: var(--gold); display: inline-block; animation: nudge 1.6s ease-in-out infinite; }
+
+  /* filter chips: one sideways-scrolling row instead of three wrapped rows */
+  .filters { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 calc(var(--gutter) * -1) 18px; padding: 2px var(--gutter); }
+  .filters::-webkit-scrollbar { display: none; }
+  .filter { flex: none; height: 40px; padding: 0 16px; }
+
+  /* cards a little shorter when stacked */
+  .card__media { aspect-ratio: 1 / 1.12; }
+  .card__body { padding: 18px; }
+  .card__text { margin-bottom: 10px; }
+  .card__meta { margin-bottom: 12px; }
+  .guide__photo { aspect-ratio: 16 / 11; }
+  .guide__body { padding: 14px 6px 6px; }
+
+  /* floating WhatsApp: compact round button so it doesn't cover content */
+  .wa-float { width: 58px; height: 58px; padding: 0; justify-content: center; right: 14px; bottom: calc(14px + env(safe-area-inset-bottom)); }
+  .wa-float span { display: none; }
+  .wa-float svg { width: 28px; height: 28px; }
+
+  /* booking: smaller, flat phone mock-up */
+  .booking { gap: 36px; }
+  .step { grid-template-columns: 44px 1fr; gap: 14px; padding: 16px 0; }
+  .step__n { width: 40px; height: 40px; font-size: 16px; }
+  .step h3 { font-size: 18px; }
+  .phone { width: 250px; transform: none; border-radius: 36px; padding: 9px; }
+  .phone:hover { transform: none; }
+  .phone__screen { border-radius: 28px; }
+  .phone__head { padding-top: 26px; }
+
+  /* stats, location, faq, cta */
+  .stat { padding: 20px 18px; }
+  .location { gap: 28px; }
+  .distances { margin-top: 18px; }
+  .distances li { padding: 13px 0; }
+  .map-card { aspect-ratio: 4 / 3.3; }
+  .faq summary { padding: 17px 18px; font-size: 16px; }
+  .faq .answer { padding: 0 18px 18px; font-size: 15px; }
+  .cta-band { border-radius: 20px; }
+  .cta-band p { font-size: 16px; margin: 16px 0 24px; }
+
+  /* inner pages */
+  .page-hero { min-height: 76vh; min-height: 76svh; }
+  .page-hero--short { min-height: 56vh; min-height: 56svh; }
+  .page-hero__actions .btn { flex: 1 1 auto; }
+  .facts { margin-top: -28px; }
+  .fact { padding: 16px 18px; }
+  .detail { gap: 40px; }
+  .prose p { font-size: 16px; }
+  .highlights { margin-top: 22px; }
+
+  /* footer: two columns, roomy links */
+  .footer { padding: 56px 0 100px; }
+  .footer__grid { grid-template-columns: 1fr 1fr; gap: 30px 18px; }
+  .footer__about, .footer__grid > div:last-child { grid-column: 1 / -1; }
+  .footer h4 { margin-bottom: 8px; }
+  .footer ul { gap: 0; }
+  .footer ul a { display: block; padding: 9px 0; font-size: 14.5px; line-height: 1.35; }
+  .footer__giant { margin-top: 36px; }
+
+  /* tap targets */
+  .link-arrow { padding: 8px 0; }
+  .crumbs a { display: inline-block; padding: 6px 0; }
+  .crumbs { align-items: center; }
+  .card__media::after { background: linear-gradient(180deg, rgba(10,17,19,0) 18%, rgba(10,17,19,.72) 50%, rgba(10,17,19,.96) 100%); }
+  .has-bookbar .wa-float { display: none; }
+}
+
+/* No sticky hover effects on touch screens */
+@media (hover: none) {
+  .card:hover .card__media img, .cat-tile:hover img, .gallery__item:hover img { transform: none; }
+  .guide:hover { transform: none; }
+  .btn:hover::before { transform: translateY(101%); }
+}

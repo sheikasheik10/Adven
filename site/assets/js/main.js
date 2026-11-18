@@ -175,6 +175,7 @@ $$("[data-filters]").forEach((wrap) => {
   $$(".filter", wrap).forEach((b) => b.addEventListener("click", () => {
     $$(".filter", wrap).forEach((x) => x.setAttribute("aria-pressed", x === b));
     const f = b.dataset.filter;
+    if (grid.scrollWidth > grid.clientWidth) grid.scrollTo({ left: 0, behavior: reduce ? "auto" : "smooth" });
     $$(".card", grid).forEach((c, i) => {
       const show = f === "all" || c.dataset.cat === f;
       c.classList.toggle("is-hidden", !show);

@@ -451,7 +451,7 @@ def build_home():
     <p class="lead" data-reveal>Every activity happens in Kitulgala, Sri Lanka's adventure capital. Each one is led by trained guides with all safety gear included. Tap <b>Book</b> and finish in WhatsApp.</p>
   </div>
   {filters("home-grid")}
-  <div class="cards" id="home-grid">{cards}</div>
+  <div class="cards cards--swipe" id="home-grid">{cards}</div><p class="swipe-hint" aria-hidden="true">Swipe for more <span>&rarr;</span></p>
 </div></section>
 
 <section class="section--tight"><div class="container">
@@ -470,7 +470,7 @@ def build_home():
     <div><span class="kicker">Your guides</span><h2 class="h-xl" data-split>People you can <span class="gold">trust.</span></h2></div>
     <p class="lead" data-reveal>Our guides are trained in swift-water rescue, rope access and first aid, and they know every rapid, pool and trail in Kitulgala. <a class="link-arrow" href="/guides/">Meet the team {I['arrow']}</a></p>
   </div>
-  <div class="guides">{guides}</div>
+  <div class="guides guides--swipe">{guides}</div>
 </div></section>
 
 <section class="section--tight" id="gallery">
@@ -583,7 +583,7 @@ def build_activity(a):
 {faq_block(c['faqs'], heading="Good to know")}
 <section class="section bg-2"><div class="container">
   <div class="section-head"><span class="kicker">Keep exploring</span><h2 class="h-xl" data-split>You might <span class="gold">also love.</span></h2></div>
-  <div class="cards">{''.join(card(x, i) for i, x in enumerate(rel))}</div>
+  <div class="cards cards--swipe">{''.join(card(x, i) for i, x in enumerate(rel))}</div><p class="swipe-hint" aria-hidden="true">Swipe for more <span>&rarr;</span></p>
 </div></section>
 {cta_band(a['image'], title=f"Ready for {e(short(a))}?")}
 <div class="bookbar"><div><b>{e(short(a))}</b><small>{e(a['duration'])} · {e(a['minAge'])}+ yrs</small></div>{book_btn("Book", a["name"], cls="btn btn--wa btn--sm")}</div>
